@@ -9,4 +9,4 @@ Progressive Challenges: New content unlocks as you advance, keeping the gameplay
 
 
 The game is available for download as a zip file. 
-Click https://najmsunbol.com/RaceCraft/Game.zip to download it from Google Drive. Once downloaded, unzip the file and follow the instructions inside to start playing.
+Click https://najmsunbol.com/RaceCraft/Game.zip to download it from My Web. Once downloaded, unzip the file and follow the instructions inside to start playing.
